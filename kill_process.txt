@@ -1,3 +1,15 @@
 netstat -aon | find "8080"
 
 taskkill /F /PID 10696
+
+netstat -aon | find "8080"
+
+taskkill /F /PID 10696
+
+netstat -aon | find "8080"
+
+taskkill /F /PID 10696
+
+netstat -aon | find "8080"
+
+taskkill /F /PID 10696
